@@ -12,3 +12,6 @@
   <a href="https://www.instagram.com/vaa_ryanti/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
   </a>
+  <a href="https://discord.gg/jodohseungchol#9412">
+    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord">
+  </a>
