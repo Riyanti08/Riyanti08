@@ -14,4 +14,7 @@
   </a>
   <a href="https://discord.gg/jodohseungchol#9412">
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord">
+  </a>
+  <a href="https://twitter.com/bmgyuie13_">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter">
 </div>
