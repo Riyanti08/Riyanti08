@@ -16,6 +16,6 @@
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord">
   </a>
   <a href="https://twitter.com/bmgyuie13_">
-    <img src="https://img.shields.io/badge/Twitter-%237289DA.svg?logo=twitter&logoColor=white" alt="Twitter">
+    <img src="https://img.shields.io/badge/Twitter-%7289DA.svg?logo=twitter&logoColor=white" alt="Twitter">
   </a>
 </div>
