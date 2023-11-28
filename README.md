@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Evaa🧸</h1>
+<h1 align="center">Hi 👋, I'm Evaa🐻</h1>
 <div align="center">
   Let's connect! <br/>
   <a href="mailto:riyantieva385@gmail.com">
